@@ -22,7 +22,7 @@
 	    }
 	}
 	dependencies {
-	        implementation 'com.github.anirudhmpai:EasyLocationFetch:1.0.0'
+	        implementation 'com.github.anirudhmpai:EasyLocationFetch:1.0.1'
 	}
 
 # Implementation :
