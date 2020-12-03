@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EasyLocationFetch</string>
+    <string name="fetch_address">fetch Address</string>
 </resources>

@@ -1,2 +1,3 @@
+include ':LocationFetch'
 include ':app'
 rootProject.name = "EasyLocationFetch"
