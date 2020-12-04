@@ -1,6 +1,7 @@
 # EasyLocationFetch
 
 [![](https://jitpack.io/v/anirudhmpai/EasyLocationFetch.svg)](https://jitpack.io/#anirudhmpai/EasyLocationFetch)
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-EasyLocationFetch-green.svg?style=flat )]( https://android-arsenal.com/details/1/8198 )
 
 # Setup
 
